@@ -1,0 +1,3 @@
+127.0.0.1 - - [07/Jun/2019:22:32:43 +0000] "POST /wp-cron.php?doing_wp_cron=1559946763.5241611003875732421875 HTTP/1.0" 200 0 "http://fastfire.local/wp-cron.php?doing_wp_cron=1559946763.5241611003875732421875" "WordPress/5.1.1; http://fastfire.local"
+127.0.0.1 - - [07/Jun/2019:22:32:59 +0000] "GET /local-phpinfo.php HTTP/1.0" 200 92630 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15"
+127.0.0.1 - - [07/Jun/2019:22:33:00 +0000] "GET /favicon.ico HTTP/1.0" 200 0 "http://fastfire.local/local-phpinfo.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15"

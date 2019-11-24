@@ -1,0 +1,42 @@
+[Fri Jun 07 22:33:48.090185 2019] [mpm_event:notice] [pid 1175:tid 140233678772096] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Fri Jun 07 22:33:48.091334 2019] [core:notice] [pid 1175:tid 140233678772096] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jun 22 21:09:45.011054 2019] [mpm_event:notice] [pid 248:tid 140256864495488] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sat Jun 22 21:09:45.011989 2019] [core:notice] [pid 248:tid 140256864495488] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jun 22 21:09:46.361139 2019] [proxy:error] [pid 253:tid 140256774293248] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Sat Jun 22 21:09:46.361774 2019] [proxy_fcgi:error] [pid 253:tid 140256774293248] [client 172.17.0.1:44512] AH01079: failed to make connection to backend: httpd-UDS
+[Sat Jun 22 21:09:46.971119 2019] [proxy:error] [pid 254:tid 140256749115136] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Sat Jun 22 21:09:46.971435 2019] [proxy_fcgi:error] [pid 254:tid 140256749115136] [client 172.17.0.1:44516] AH01079: failed to make connection to backend: httpd-UDS, referer: http://fastfire.local/
+[Sat Jun 22 21:09:48.979686 2019] [proxy:error] [pid 253:tid 140256765900544] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Sat Jun 22 21:09:48.979824 2019] [proxy_fcgi:error] [pid 253:tid 140256765900544] [client 172.17.0.1:44522] AH01079: failed to make connection to backend: httpd-UDS, referer: http://fastfire.local/wp-cron.php?doing_wp_cron=1561237788.9593939781188964843750
+[Mon Jul 01 16:26:20.483606 2019] [mpm_event:notice] [pid 513:tid 139653776127872] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Jul 01 16:26:20.485277 2019] [core:notice] [pid 513:tid 139653776127872] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 01 16:26:22.381153 2019] [proxy:error] [pid 516:tid 139653613090560] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Mon Jul 01 16:26:22.382063 2019] [proxy_fcgi:error] [pid 516:tid 139653613090560] [client 172.17.0.1:57414] AH01079: failed to make connection to backend: httpd-UDS
+[Mon Jul 01 16:26:22.642020 2019] [proxy:error] [pid 517:tid 139653571127040] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Mon Jul 01 16:26:22.662429 2019] [proxy_fcgi:error] [pid 517:tid 139653571127040] [client 172.17.0.1:57418] AH01079: failed to make connection to backend: httpd-UDS, referer: http://fastfire.local/
+[Mon Jul 01 16:26:22.664993 2019] [proxy:error] [pid 517:tid 139653562734336] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Mon Jul 01 16:26:22.665406 2019] [proxy_fcgi:error] [pid 517:tid 139653562734336] [client 172.17.0.1:57422] AH01079: failed to make connection to backend: httpd-UDS
+[Mon Jul 01 16:26:22.843814 2019] [proxy:error] [pid 517:tid 139653554341632] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Mon Jul 01 16:26:22.844054 2019] [proxy_fcgi:error] [pid 517:tid 139653554341632] [client 172.17.0.1:57426] AH01079: failed to make connection to backend: httpd-UDS
+[Mon Jul 01 16:26:24.798798 2019] [proxy:error] [pid 516:tid 139653604697856] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Mon Jul 01 16:26:24.799215 2019] [proxy_fcgi:error] [pid 516:tid 139653604697856] [client 172.17.0.1:57432] AH01079: failed to make connection to backend: httpd-UDS, referer: http://fastfire.local/wp-cron.php?doing_wp_cron=1561998384.7469151020050048828125
+[Mon Jul 01 23:45:20.647029 2019] [mpm_event:notice] [pid 255:tid 139809530521472] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Jul 01 23:45:20.649413 2019] [core:notice] [pid 255:tid 139809530521472] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 01 23:45:23.093024 2019] [proxy:error] [pid 261:tid 139809280444160] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Mon Jul 01 23:45:23.113198 2019] [proxy_fcgi:error] [pid 261:tid 139809280444160] [client 172.17.0.1:57972] AH01079: failed to make connection to backend: httpd-UDS
+[Fri Aug 23 16:12:57.611688 2019] [mpm_event:notice] [pid 527:tid 140039989016448] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Fri Aug 23 16:12:57.616308 2019] [core:notice] [pid 527:tid 140039989016448] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Aug 23 16:12:57.691028 2019] [proxy:error] [pid 530:tid 140039824602880] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Fri Aug 23 16:12:57.691177 2019] [proxy_fcgi:error] [pid 530:tid 140039824602880] [client 172.17.0.1:37046] AH01079: failed to make connection to backend: httpd-UDS
+[Fri Aug 23 16:12:57.852724 2019] [proxy:error] [pid 530:tid 140039816210176] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Fri Aug 23 16:12:57.852870 2019] [proxy_fcgi:error] [pid 530:tid 140039816210176] [client 172.17.0.1:37050] AH01079: failed to make connection to backend: httpd-UDS, referer: http://fastfire.local/
+[Fri Aug 23 16:13:00.341972 2019] [proxy:error] [pid 530:tid 140039807817472] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Fri Aug 23 16:13:00.342150 2019] [proxy_fcgi:error] [pid 530:tid 140039807817472] [client 172.17.0.1:37056] AH01079: failed to make connection to backend: httpd-UDS, referer: http://fastfire.local/wp-cron.php?doing_wp_cron=1566576780.3195219039916992187500
+[Sat Nov 23 23:03:07.858716 2019] [mpm_event:notice] [pid 500:tid 139945115916160] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sat Nov 23 23:03:07.859838 2019] [core:notice] [pid 500:tid 139945115916160] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Nov 23 23:03:13.614034 2019] [proxy:error] [pid 506:tid 139944873920256] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Sat Nov 23 23:03:13.614443 2019] [proxy_fcgi:error] [pid 506:tid 139944873920256] [client 172.17.0.1:41794] AH01079: failed to make connection to backend: httpd-UDS
+[Sat Nov 23 23:03:13.702262 2019] [proxy:error] [pid 506:tid 139944865527552] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Sat Nov 23 23:03:13.702478 2019] [proxy_fcgi:error] [pid 506:tid 139944865527552] [client 172.17.0.1:41798] AH01079: failed to make connection to backend: httpd-UDS, referer: http://fastfire.local/wp-admin/
+[Sat Nov 23 23:03:14.255706 2019] [proxy:error] [pid 506:tid 139944857134848] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Sat Nov 23 23:03:14.255937 2019] [proxy_fcgi:error] [pid 506:tid 139944857134848] [client 172.17.0.1:41804] AH01079: failed to make connection to backend: httpd-UDS, referer: http://fastfire.local/wp-cron.php?doing_wp_cron=1574550194.2250299453735351562500
